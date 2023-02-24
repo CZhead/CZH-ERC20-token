@@ -1,0 +1,3 @@
+ERC20 CZH token code based on open zeppelin and developped using truffle
+This token has no limit supply and is fully controlled by deployer (can mint/burn)
+For educational puprose only
